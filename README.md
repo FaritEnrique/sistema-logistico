@@ -11,6 +11,7 @@ Todo vinculado con el saldo del inventario.
 Listado de rutas de carpetas para el volumen Datos
 El número de serie del volumen es 126F-EAE0
 
+### Estructura del Proyecto
 .
 ├── .gitignore
 ├── .idea/
@@ -61,3 +62,8 @@ El número de serie del volumen es 126F-EAE0
 │       └── Inventario.java
 ├── estructura.txt
 └── SisLogist.iml
+### Contacto
+
+Farit Enrique Espinoza Tuesta - faritespinoza@gmail.com
+
+Proyecto creado para fines educativos.
