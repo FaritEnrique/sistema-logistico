@@ -62,6 +62,7 @@ El número de serie del volumen es 126F-EAE0
 │       └── Inventario.java
 ├── estructura.txt
 └── SisLogist.iml
+---
 ### Contacto
 
 Farit Enrique Espinoza Tuesta - faritespinoza@gmail.com
